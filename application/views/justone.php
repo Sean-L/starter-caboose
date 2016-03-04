@@ -3,5 +3,6 @@
     <div class="span8 offset1">
         <p class="lead">{what}</p><br/>
         <p class="text-right">{who}</p>
+        <div data-id="{id}" class="hollywood" data-average="{average}"></div>
     </div>
 </div>
